@@ -6,8 +6,4 @@ psfsj
 a
 fd
 saf
-f
-asdf
-fsa
-f
-af
+f  
